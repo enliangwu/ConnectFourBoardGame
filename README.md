@@ -1,4 +1,8 @@
-# ConnectFourBoardGame
+# Project Title
 
-This is a simple connect 4 board game
+Connect Four Board Game
+
+## Description
+
+A simple connect four game using JavaFX GUI 
 
